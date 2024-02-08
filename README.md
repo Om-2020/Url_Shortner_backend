@@ -79,4 +79,4 @@
 - Cookies are marked as HTTP-only for enhanced security.
 - Session cookies have a limited lifespan (15 minutes).
 - SameSite attribute is set based on the environment to   prevent CSRF attacks.
-- Secure attribute ensures cookies are only sent over HTTPS in production.
+- Secure attribute ensures cookies are only sent over HTTPS in Production.
